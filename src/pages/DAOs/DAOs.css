@@ -1,0 +1,26 @@
+.daos{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 2em;
+   padding-top: 2em;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #272d50;
+   
+}
+
+ img{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow:  3px 5px 10px#9fa1ac,
+             -5px -5px 10px #a6b3cc; 
+    
+}
+.para{
+    width: 400px;
+    margin: 0 auto;
+    gap: 2em;
+    border-radius: 10px;
+    background-color: #fafcfe;
+    padding: 1em;
+}
